@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Gesturely Updates</title>
+        <link>https://raw.githubusercontent.com/hardik-chaudhari7797/gesturely-releases/main/appcast.xml</link>
+        <description>Update feed for Gesturely.</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1.0</title>
+            <pubDate>Wed, 19 Aug 2026 15:33:35 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/hardik-chaudhari7797/gesturely-releases/releases/download/v0.1.0/Gesturely-0.1.0.zip"
+                sparkle:edSignature="srDAcEBTdYuDZqK3blFPUJK7ONBas5HNLj90sMIUkLb8e5+3ldRDB6eamz4x8c7i2Hn96aLXwVlJXUlBBV54DA=="
+                length="5605291"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
