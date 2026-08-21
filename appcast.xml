@@ -6,6 +6,18 @@
         <description>Update feed for Gesturely.</description>
         <language>en</language>
         <item>
+            <title>Version 0.1.2</title>
+            <pubDate>Fri, 21 Aug 2026 19:39:54 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/hardik-chaudhari7797/gesturely-releases/releases/download/v0.1.2/Gesturely-0.1.2.zip"
+                sparkle:edSignature="/z000ee6gWYFDPnDz4zcuWUCu7+cUTAiX1ixtTETAqkJc6D1wNUCLYMnqmtZsRtQ7ZIKrXjNTmsEQr5dEkmLAQ=="
+                length="5673333"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 0.1.1</title>
             <pubDate>Thu, 20 Aug 2026 19:44:26 +0530</pubDate>
             <sparkle:version>2</sparkle:version>
